@@ -20,4 +20,6 @@ R. Hartong-Redden and R. Krechetnikov. Experimental and theoretical study of pat
 
 
 Any of the above should describe my experimental setup, data analysis procedure,
-and exciting theory of pattern identification on circular domains (S(1), O(2)). 
+and exciting theory of pattern identification on circular domains (S(1), O(2)).
+
+The main function is `rim_analysis.m`.
