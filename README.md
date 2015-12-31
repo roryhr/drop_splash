@@ -1,19 +1,16 @@
-# README #
+# README
 
 This is the code used in my UC Santa Barbara Honors Thesis (Bachelor's Thesis)
-"Experimental apparatus for the study of Faraday waves on time-varying domains".Santa Barbara, CA. Dec, 2014. Basically, we shine a projector on diffusive surface and by cleverly processing the images, we can extract 3D data of the position of the surface (i.e. a height measurement for each pixel in an image). 
+"Experimental and theoretical study of pattern identification in physical systems with O(2) symmetry". Santa Barbara, CA. June, 2010.
 
-The code is in MATLAB and the Fourier Transform Profilometry technique is adopted from: 
+The code is in MATLAB and we use the MATLAB Camera Calibration Toolbox Jean-Yves Bouguet:
 
-P.J. Cobelli, V. Pagneux, A. Maurel, and P. Petitjeans. Experimental study
-on water-wave trapped modes. J. Fluid Mech., 666:445-0476, 2011.
+http://www.vision.caltech.edu/bouguetj/calib_doc/index.html
 
-A. Maurel, P.J. Cobelli, V. Pagneus, and P. Petitjeans. Experimental and
-theoretical inspection of the phase-to-height relation in Fourier transform
-prolometry. J. Opt. Soc. Am., 48:380-392, 2009.
+A pdf of my thesis is available online and here. If you're pressed for time,
+the publication is shorter (and well-worth citing!).
 
-M. Takeda, H. Ina, and S. Kobayasi. Fourier-transform method of fringepattern
-analysis for computer-based topography and interferometry. J. Opt.
-Soc. Am., 72:156-160, 1982.
+R Hartong-Redden and R. Krechetnikov. Pattern identification in systems with S(1) symmetry. Phys. Rev. E, 14:42--351, 2011
 
-If you want a free copy of my thesis or have any questions: roryhr@gmail.com
+Both my thesis and publication describe the experimental setup, data analysis procedure,
+and exciting new theory of pattern identification on circular domains (S(1), O(2)).  
